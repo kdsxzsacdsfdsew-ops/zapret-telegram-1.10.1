@@ -1,0 +1,17 @@
+color 23
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
+start explorer
